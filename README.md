@@ -14,5 +14,5 @@ The RC circuit uses 100 kOhm and 22 pF
 <img src="IMG_20260321_095626_768.jpg" alt="PCB front" width="600" height="400">
 <img src="IMG_20260321_095642_737.jpg" alt="PCB back" width="600" height="400">
 <img src="IMG_20260321_112844_994.jpg" alt="LED ring" width="600" height="400">
-<img src="IMG_20260321_100141_144.jpg" alt="Whiteboard" width="600" height="400">
+<img src="IMG_20260321_132459_004.jpg" alt="Whiteboard" width="600" height="400">
 <img src="neo_rc2014_leds_attached.png" alt="Pulse extender scope" width="600" height="400">
