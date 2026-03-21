@@ -4,3 +4,8 @@ Documentation for a once-of project for the RC2014 computer: Driving NeoPixels o
 
 The circuit is mostly whiteboard, there is no full schematic PDF. Pictures for future reference.
 
+The ICs are 
+74hct688 byte comparator for address
+74hct32 4 or ports
+74hct04 6 inverters
+The RC circuit uses 100 kOhm and 22 pF
