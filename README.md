@@ -8,6 +8,7 @@ The ICs are:
 - 74hct688 byte comparator for address
 - 74hct32 4 or ports
 - 74hct04 6 inverters
+
 The RC circuit uses 100 kOhm and 22 pF
 
 <img src="IMG_20260321_095626_768.jpg" alt="PCB front" width="600" height="400">
